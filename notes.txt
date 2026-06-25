@@ -1,0 +1,9 @@
+Master-Detail: Eerste level detail geeft geen vertical scrollbar bij overschrijding hoogte van detail pane, bij scrollen scrollt het master pane, niet het detail pane.
+Row selection: Bij aanklikken van een rij wordt "On row deselected"aangeroepen in plaats van "On row selected". Als "On row deselected" "Do nothing" is gebeurt er niets.
+Row selection: De geselecteerde row veranderd niet van kleur.
+Row selection: Kolom met selectievakjes wordt niet weergegeven bij "Show selection column: Yes".
+Summary row: Summary position Bottom. Als Pagination position Bottom heeft wordt deze niet onder, maar rechts van de Summary row weergegeven.
+Summary row: Aantal decimalen (precision - the number of decimals to display) kan niet ingesteld worden.
+Formatters: Niet alle Tabulator formatters zijn aanwezig. Vul ze aan.
+Custom content: Bij een tabel met > 100 rijen wordt alleen in de ongeveer 100 eerste rijen custom content weergegeven.
+Aggregate: Count geeft een waarde van 999 wat 1000 moet zijn volgens SVARdatagrig en DataGrid2, één te laag dus.
